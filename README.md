@@ -8,7 +8,6 @@ Task 1:
 7]string: declaration and use of functions like upper lower split strip replace ect
 8]Numeric:- subtpes like int float and complex
 
-
 TASK 2:
 1]if stmt:- use of if statement to check a single condition in vaious examples like to check whther a number is positive negative even or not within a range or not etc
 2]if else stmt: used to check two conditions in examples like checking a number is odd or even, greater or smaller,negative or positive whether a person and vote or not and other similar examples
