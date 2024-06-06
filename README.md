@@ -6,7 +6,9 @@ Task 1:
 5]Set: set declaration,properties like mutable,orderd,etc
 6]Dictionary:- declation of dict,methods like copy index pop and use of for loop for accessing
 7]string: declaration and use of functions like upper lower split strip replace ect
-8]Numeric:- subtpes like int float and complex, its methods like 
+8]Numeric:- subtpes like int float and complex
+
+
 TASK 2:
 1]if stmt:- use of if statement to check a single condition in vaious examples like to check whther a number is positive negative even or not within a range or not etc
 2]if else stmt: used to check two conditions in examples like checking a number is odd or even, greater or smaller,negative or positive whether a person and vote or not and other similar examples
