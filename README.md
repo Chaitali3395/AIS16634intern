@@ -20,4 +20,6 @@ Task 3:
 #With the break statement we can stop the loop before it has looped through all the items:
 2]pass stmt:has no-operation statement, meaning it does nothing when executed. Its primary uses are:
 #Placeholder for Future Code: It allows you to write syntactically correct code when you have not yet implemented the functionality but need to leave a placeholder.
-
+3] continue stmt: used to continue the loop as like break stmt it does not terminate when the condition is met but it continue escaping the condition that is met
+3]statistical user defined functuions: created function to find mean variance median mode skewness rane etc
+5]logical user defined functions: created functions to sole logical problems like finding theeven or odd number,palimdrome armstrong suare of number area of circl etc
