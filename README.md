@@ -18,4 +18,6 @@ TASK 2:
 Task 3:
 1]break stmt: usedto control the sequence of the loop. Suppose you want to terminate a loop and skip to the next code after the loop; break will help you do that.
 #With the break statement we can stop the loop before it has looped through all the items:
-2]pass stmt:
+2]pass stmt:has no-operation statement, meaning it does nothing when executed. Its primary uses are:
+#Placeholder for Future Code: It allows you to write syntactically correct code when you have not yet implemented the functionality but need to leave a placeholder.
+
