@@ -18,3 +18,4 @@ TASK 2:
 Task 3:
 1]break stmt: usedto control the sequence of the loop. Suppose you want to terminate a loop and skip to the next code after the loop; break will help you do that.
 #With the break statement we can stop the loop before it has looped through all the items:
+2]pass stmt:
