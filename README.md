@@ -23,3 +23,8 @@ Task 3:
 3] continue stmt: used to continue the loop as like break stmt it does not terminate when the condition is met but it continue escaping the condition that is met
 3]statistical user defined functuions: created function to find mean variance median mode skewness rane etc
 5]logical user defined functions: created functions to sole logical problems like finding theeven or odd number,palimdrome armstrong suare of number area of circl etc
+
+Task 4:
+1] numpy 1: studied what is NumPy,different methods and functions of numpy like creading 1d 2d 3d arrays indexing slicing shape reshape datatypes in numpy view copy join spliting of arrays iterating search sort and filtering arrays
+2] numpy 2: studied the random function used in numpy data distribution seaborn module random permutation noram chisquare binomial poisson logistic multinomial distributions .thir distribution plots using matpotlib and seaborn .generating randon numbers etc.studied ufunc(universal function) like add subtract multiply diff product sin costan antisin anticos anti tan radian to degree and vise versa,,lcd,gcd,hypothenius etc
+
