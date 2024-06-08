@@ -14,3 +14,7 @@ TASK 2:
 3] if elif else:- to test multiple conditions at a time if the above condition  false then the next one to it is tested.Studied examples like to check whether a num is positive negative or zero result of a student and other similar examples
 4] For loop: used for accessinng the elemnts in a list tuple and its methods 
 5] while loop: use of while loop to print a sequence of number print tables checking a number is palimdrome or not armstron or not etc and other statements like break continue pass
+
+Task 3:
+1]break stmt: usedto control the sequence of the loop. Suppose you want to terminate a loop and skip to the next code after the loop; break will help you do that.
+#With the break statement we can stop the loop before it has looped through all the items:
