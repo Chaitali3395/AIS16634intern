@@ -75,3 +75,6 @@ visualizations with minimal code.
 #In seaborn library we see different types of plotting of graphs such as distribution plot, box plot, violin
 plot, bar plot,scatter pot,
 line plot, heatmap, pair plot ,facet grid, regression plot , residual plot.
+
+Task 7
+1] Numpy exercise:- solved probles related to array indexing slicing
