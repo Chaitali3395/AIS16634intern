@@ -100,12 +100,18 @@ OBJECTIVES:
 3)To identify which features in dataset have the most significant impact on target outcome
 4)To determine which model is best suited for bike sharing demand dataset.
 5)To identify relationships between variables to understand how different factor influence the demand for rental bikes
+
+
+
 EDA AND MODEL BUILDING:
 In the bike sharing demand data prediction project we download the data from kaggle and import it to jupyter notebook then perform EDA on the data.
 Then we cleaned data by handling missing values and outliers to build the various models like - linear regression,ridge regression,elastic net, random forest, decision tree,KNN,SVR9Support vector regressor),PCR(principal component regbressor),PLSR(partial least square regressor),Gradient Boosting and find the root mean square error and R square for all the 10 models.
 Then we perform grid search cv on 10 models to find the best parameter once we find the Best parameters then again we build the 10 models with that best parameter, and find the RMSE and R square values after the grid search cv .
 Also we find feature importance from decision tree model and find the best parameter i.e Hour , tempreture,solar radiation,humidity,seasons and holiday and fit the all 10 models with these 6 variables.and find the RMSE and R square of all models.
-Then plot the bar graphs and joint bar plots of rmse values and r square values. Also compare the rmse and R square values of before and after grid search cv .
+Then plot the bar graphs and joint bar plots of rmse values and r square values. Also compare the rmse and R square values of before and after grid search cv 
+
+
+.
 CONCLUSION:
 1. Seasonal Trends: Bike-sharing demand typically varies with the season, with higher usage in warmer months and lower usage in colder months.
 2 Weather Impact: Weather conditions such as temperature, humidity significantly influence bike-sharing demand. Favorable weather conditions usually correlate with increased bike usage.
