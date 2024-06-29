@@ -80,3 +80,22 @@ Task 7
 1] Numpy exercise:- solved probles related to array indexing slicing,creating arrays containg zeros ones generating random numbers from normal distribution,using linspace addition of elements in an array calculate mean standard deviation, etc
 2]Ecommerce purchase exercise:- studied the dataset and found out the mean purchase price maximum and minimum purchase price,number of people having job title lawyer number of people making the purchase during the AM and how many people made the purchase during PM,5 most common Job Titles,person with the following Credit Card Number: 4926535242672853 ,number of people have American Express as their Credit Card Provider and made a purchase above $95,number of people have a credit card that expires in 2025,top 5 most popular email providers/hosts (e.g. gmail.com, yahoo.com, etc...)
 3] Salary exercise:-studied the data read the file and found out average BasePay,the highest amount of OvertimePay in the dataset,job title of JOSEPH DRISCOLL, How much does JOSEPH DRISCOLL make,name of highest paid person,name of lowest paid person,the average (mean) BasePay of all employees per year,number of unique job titles,the top 5 most common jobs,number of  Job Titles were represented by only one person in 2013, people have the word Chief in their job title,there a correlation between length of the Job Title string and Salary
+
+#Case study -
+In this case study we download the titanic data from kaggle and import it to jupyter notebook.Then we find the missing values and filled the missing values by its mean ,and droped the variable like cabin,passenger id etc. Then we do label encoding for the categorical variable.
+Then Performd the EDA i.e exploratory data analysis on titanic data such as bar plot,scatter plot,joint plot and pie chart .
+From the graph it is seen that the females are survived more than males.The passengers who are in class 1st are most survived as compared to class 2nd and 3rd.
+In titanic data survival is the dependent variable and other variables like age,sex,fare,sibps,embarked are independent variables.
+Then we split data into train test and fit the algorithms like naive bayes,KNN, dicision tree and predict the text data using particular fitted model.
+In model evaluation we find accuracy,classification report,confusion matrix,precision and recall for each algorithm .and compare it with each other and we may conclude that 
+decision tree is the best model on the basis of prcision , accuracy and recall, Where the values of precision,accuracy and recall for dicision tree are high as compared to knn and naive bayes.
+
+#Dashboard-
+In this task we created a dashoard on project data i.e Bike sharing demand data in power bi dashboard.We download the Bike sharing demand data from kaggle. In power bi we get the data from csv file then by using graphs ,sclicers,card and other features we create a dashoard in power bi.
+
+#Project-
+In the bike sharing demand data prediction project we download the data from kaggle and import it to jupyter notebook then perform EDA on the data.
+Then we cleaned data by handling missing values and outliers to build the various models like - linear regression,ridge regression,elastic net, random forest, decision tree,KNN,SVR9Support vector regressor),PCR(principal component regbressor),PLSR(partial least square regressor),Gradient Boosting and find the root mean square error and R square for all the 10 models.
+Then we perform grid search cv on 10 models to find the best parameter once we find the Best parameters then again we build the 10 models with that best parameter, and find the RMSE and R square values after the grid search cv .
+Also we find feature importance from decision tree model and find the best parameter i.e Hour , tempreture,solar radiation,humidity,seasons and holiday and fit the all 10 models with these 6 variables.and find the RMSE and R square of all models.
+Then plot the bar graphs and joint bar plots of rmse values and r square values. Also compare the rmse and R square values of before and after grid search cv .
