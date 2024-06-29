@@ -10,9 +10,17 @@ Task 1:
 
 TASK 2:
 1]if stmt:- use of if statement to check a single condition in vaious examples like to check whther a number is positive negative even or not within a range or not etc
+
+
 2]if else stmt: used to check two conditions in examples like checking a number is odd or even, greater or smaller,negative or positive whether a person and vote or not and other similar examples
+
+
 3] if elif else:- to test multiple conditions at a time if the above condition  false then the next one to it is tested.Studied examples like to check whether a num is positive negative or zero result of a student and other similar examples
+
+
 4] For loop: used for accessinng the elemnts in a list tuple and its methods 
+
+
 5] while loop: use of while loop to print a sequence of number print tables checking a number is palimdrome or not armstron or not etc and other statements like break continue pass
 
 Task 3:
@@ -96,9 +104,17 @@ In this task we created a dashoard on project data i.e Bike sharing demand data 
 #Project-
 OBJECTIVES:
 1]To identify and evaluate the seasonal fluctuations in the demand for rental bike.
+
+
 2)Investigate the variations in bike rental demand across different hours per day and days of the month and to identify the peak demand periods.
+
+
 3)To identify which features in dataset have the most significant impact on target outcome
+
+
 4)To determine which model is best suited for bike sharing demand dataset.
+
+
 5)To identify relationships between variables to understand how different factor influence the demand for rental bikes
 
 
@@ -114,7 +130,15 @@ Then plot the bar graphs and joint bar plots of rmse values and r square values.
 .
 CONCLUSION:
 1. Seasonal Trends: Bike-sharing demand typically varies with the season, with higher usage in warmer months and lower usage in colder months.
+
+
 2 Weather Impact: Weather conditions such as temperature, humidity significantly influence bike-sharing demand. Favorable weather conditions usually correlate with increased bike usage.
+
+
 3 Impact of Holidays: Holidays tend to disrupt regular usage patterns, often resulting in lower demand.
+
+
 4 Based on rmse and r square ,the best performing models are random forest and gradient boosting.
+
+
 5 By feature importance the variables like hour, tempreture, humidity, solar radiation, Functioning day and seasons are important impact on bike sharing demand.
